@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adriankiess
-- 👀 I’m interested in programming, administration.
+- 👀 I’m interested in programming and administration.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on various things.
 - 📫 How to reach me: https://twitter.com/adriankiess
