@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on various things.
 - 📫 How to reach me: https://www.kiess.onl and https://twitter.com/adriankiess
-ä
+
 Verbotene W&ouml;rter:
 Abh&ouml;rschutz, Drohne, Extremely-Low-Frequency ([extremer] Niederfrequenzbereich), Gedankenfunk [Stimmenfunk], Gedankenlesekappe, Gedankenlesen, Kernspin, Mind-Control (Bewusstseinskontrolle), MRT (Magnetresonanztomograph), Stimmenh&ouml;ren, Strahlenwolke, Tesla's MHD (Magnetohydrodynamischer Generator), Tod und Erschlagen, Totale &Uuml;berwachung, &Uuml;berv&ouml;geln
 
