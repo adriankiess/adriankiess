@@ -847,6 +847,10 @@ Hungarian national flag Magyar: Tiltott szavak…
     Teljes felügyelet
         Ide telepítették a Total Surveillance-t gondolatolvasási technológia segítségével.
 
+<p>                                                                                                                                                                   
+Übersetzungen konstruiert mit der Hilfe von <a href="https://translate.google.de">Google Translate</a>. /                                                             
+Translations constructed with the help of <a href="https://translate.google.de">Google Translate</a>.                                                                 
+</p>  
 
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
