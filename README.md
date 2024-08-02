@@ -40,7 +40,7 @@ German national flag Deutsch: Verbotene Wörter…
     Taser-Waffe (Elektroschockpistole, Distanz-Elektroimpulswaffe oder Distanz-Elektroimpulsgerät)
         Taser-Schuss aus Taser-Waffe oder Drohne zum immobilisieren der Zielperson.
     Tesla's MHD (Magnetohydrodynamischer Generator)
-        Ist das verbotenste Wort welches exisitert.
+        Ist das verbotenste Wort welches existiert.
         Hierbei handelt es sich um einen Hoax des Ingenieurs.
     Tod und Erschlagen
         Kriminelle Vereinigung die Mind-Control betreibt.
