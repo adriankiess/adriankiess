@@ -1,0 +1,28 @@
+# forbidden : LICENSE.txt
+
+Copyright (c) 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022,
+              2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032
+              Adrian Immanuel Kiess < https://www.kiess.onl >
+
+All rights reserved.
+
+
+License, as can be found at:
+https://www.netbsd.org/about/redistribution.html
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+  1. Redistributions of source code must retain the above copyright
+     notice, this list of conditions and the following disclaimer.
+  2. Redistributions in binary form must reproduce the above copyright
+     notice, this list of conditions and the following disclaimer in the
+     documentation and/or other materials provided with the distribution.
+  3. Neither the name of the University nor the names of its contributors
+     may be used to endorse or promote products derived from this software
+     without specific prior written permission.
+
+# vim: noai:sts=2 sw=2 ts=2
+#
+# EOF
