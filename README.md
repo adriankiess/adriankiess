@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various things.
 - 📫 How to reach me: https://www.kiess.onl and https://twitter.com/adriankiess
 
-<p>Lesen Sie hier: Read now:
+<p>Lesen Sie hier: / Read now:
 </p>
 <p>
     <a href="//github.com/adriankiess/adriankiess/raw/main/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
