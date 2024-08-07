@@ -4,7 +4,15 @@
 - 💞️ I’m looking to collaborate on various things.
 - 📫 How to reach me: https://www.kiess.onl and https://twitter.com/adriankiess
 
-<a href="//github.com/adriankiess/adriankiess/raw/main/glosar-mind-control.pdf" target="_blank">Glosar Mind-Control V15</a>
+<p>Lesen Sie hier: Read now:
+</p>
+<p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a>
+</p>
+
+<p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/glosar-mind-control.pdf" target="_blank">Glosar Mind-Control V15</a>
+</p>
 
 Verbotene Wörter / Forbidden words / Mots interdits / Запретные слова / Palabras prohibidas / Parole proibite / Palavras proibidas / Förbjudna ord / Forbudte ord / Забароненыя словы / Заборонені слова / Забранени думи / Забрањене речи / Zakázaná slova / Zakazane słowa / Keelatud sõnad / Aizliegtie vārdi / Uždrausti žodžiai / Cuvinte interzise / Tiltott szavak
 
