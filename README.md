@@ -14,6 +14,10 @@
     <a href="//github.com/adriankiess/adriankiess/raw/main/glosar-mind-control.pdf" target="_blank">Glosar Mind-Control V15</a> (PDF Dokument / document)
 </p>
 
+<p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen and Glosar Mind-Control</a> (TXT Dokument / document)
+</p>
+
 Verbotene Wörter / Forbidden words / Mots interdits / Запретные слова / Palabras prohibidas / Parole proibite / Palavras proibidas / Förbjudna ord / Forbudte ord / Забароненыя словы / Заборонені слова / Забранени думи / Забрањене речи / Zakázaná slova / Zakazane słowa / Keelatud sõnad / Aizliegtie vārdi / Uždrausti žodžiai / Cuvinte interzise / Tiltott szavak
 
 
