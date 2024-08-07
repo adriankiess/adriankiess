@@ -5,6 +5,7 @@
 - 📫 How to reach me: https://www.kiess.onl and https://twitter.com/adriankiess
 
 [Glosar Mind-Control V15](glosar-mind-control.pdf)
+<a href="glosar-mind-control.pdf" class="image fit">Glosar Mind-Control V15</a>
 
 Verbotene Wörter / Forbidden words / Mots interdits / Запретные слова / Palabras prohibidas / Parole proibite / Palavras proibidas / Förbjudna ord / Forbudte ord / Забароненыя словы / Заборонені слова / Забранени думи / Забрањене речи / Zakázaná slova / Zakazane słowa / Keelatud sõnad / Aizliegtie vārdi / Uždrausti žodžiai / Cuvinte interzise / Tiltott szavak
 
