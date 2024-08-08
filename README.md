@@ -6,6 +6,11 @@
 
 <p>Lesen Sie hier: / Read now:
 </p>
+
+<p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
+</p>
+
 <p>
     <a href="//github.com/adriankiess/adriankiess/raw/main/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
 </p>
