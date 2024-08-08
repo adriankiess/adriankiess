@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/anschreiben-grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-ohne-adressaten.pdf" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4 ohne Adressaten</a> (TXT Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/anschreiben-grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-ohne-adressaten.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4 ohne Adressaten</a> (TXT Dokument / document)
 </p>
 
 <p>
