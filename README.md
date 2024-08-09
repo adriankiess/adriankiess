@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and administration.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on various things.
-- 📫 How to reach me: https://www.kiess.onl and https://twitter.com/adriankiess
+- 📫 How to reach me: https://www.kiess.onl and https://x.com/adriankiess
 
 <p>Lesen Sie hier: / Read now:
 </p>
