@@ -1,13 +1,19 @@
-[de]Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil. [/de]
-
+<p>[de]Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil. [/de]
+</p>
+<p>
 [en]Adrian Kieß is a programmer and administrator. He is currently taking part in the history seminar at the University of Leipzig.
 [/en]
+</p>
 
+<p>
 Adrian Kiess @ X.com: https://www.x.com/adriankiess <br />
 Adrian Kiess @ YoutTube.com: https://www.youtube.com/@AdrianKiess
+</p>
 
+<p>
 Vielen Dank für Ihren Besuch!
 Thank you for visiting!
+</p>
 
 <p>Lesen Sie hier: / Read now:
 </p>
