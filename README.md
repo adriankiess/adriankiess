@@ -4,7 +4,7 @@
 [/en]
 
 Adrian Kiess @ X.com: https://www.x.com/adriankiess
-Adrian Kiess @ YoutToube.com: https://www.youtube.com/@AdrianKiess
+Adrian Kiess @ YoutTube.com: https://www.youtube.com/@AdrianKiess
 
 Vielen Dank für Ihren Besuch!
 Thank you for visiting!
