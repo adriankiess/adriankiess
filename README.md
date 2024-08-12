@@ -7,7 +7,7 @@
 
 <p>
 Adrian Kiess @ X.com: https://www.x.com/adriankiess <br />
-Adrian Kiess @ YoutTube.com: https://www.youtube.com/@AdrianKiess
+Adrian Kiess @ YouTube.com: https://www.youtube.com/@AdrianKiess
 </p>
 
 <p>
