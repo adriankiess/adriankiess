@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @adriankiess
-- 👀 I’m interested in programming and administration.
-- 🌱 I’m currently learning a lot of things.
-- 💞️ I’m looking to collaborate on various things.
-- 📫 How to reach me: http://www.kiess.onl and https://x.com/adriankiess
+[de]Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil. [/de]
+
+[en]Adrian Kieß is a programmer and administrator. He is currently taking part in the history seminar at the University of Leipzig.
+[/en]
+
+Adrian Kiess @ X.com: https://www.x.com/adriankiess
+Adrian Kiess @ YoutToube.com: https://www.youtube.com/@AdrianKiess
+
+Vielen Dank für Ihren Besuch!
+Thank you for visiting!
 
 <p>Lesen Sie hier: / Read now:
 </p>
