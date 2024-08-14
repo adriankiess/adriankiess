@@ -30,6 +30,10 @@ Thank you for visiting!
 </p>
 
 <p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/wege-ev-beschwerde-und-anschreiben-veruntreute-gelder.pdf" target="_blank">Wege e.V.: Beschwerde und Anschreiben veruntreute Gelder vom 26. Juli 2014</a> (PDF Dokument / document)
+</p>
+
+<p>
     <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen and Glosar Mind-Control</a> (TXT Dokument / document)
 </p>
 
