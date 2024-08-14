@@ -30,7 +30,7 @@ Thank you for visiting!
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/wege-ev-beschwerde-und-anschreiben-veruntreute-gelder.pdf" target="_blank">Wege e.V.: Beschwerde und Anschreiben veruntreute Gelder vom 26. Juli 2014</a> (PDF Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/wege-ev-beschwerde-und-auskunftsersuchen-veruntreute-gelder.pdf" target="_blank">Wege e.V.: Beschwerde und Anschreiben veruntreute Gelder vom 26. Juli 2014</a> (PDF Dokument / document)
 </p>
 
 <p>
