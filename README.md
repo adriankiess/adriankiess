@@ -39,7 +39,7 @@ Thank you for visiting!
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen vom 28. August 2024 (not yet delivered, to be sent)</a> (PDF Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen vom 28. August 2024 (not yet delivered, to be sent out)</a> (PDF Dokument / document)
 </p>
 
 <p>
