@@ -51,6 +51,12 @@ Thank you for visiting!
 </p>
 
 <p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-erste-notfall-einlieferung.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen erste Notfall Einlieferung vom 24. Juli 2017</a> (PDF Dokument / document)
+</p>
+
+
+
+<p>
     <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen and Glosar Mind-Control</a> (TXT Dokument / document)
 </p>
 
