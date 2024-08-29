@@ -47,6 +47,10 @@ Thank you for visiting!
 </p>
 
 <p>
+    <a href="//github.com/adriankiess/adriankiess/raw/main/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-wege-ev-an-rebekka-armbruster.pdf" target="_blank">Park Klinikum Leipzig: Beschwerde und Auskunftsersuchen Wege e.V. an Frau Dr. Rebekka Armbruster vom 5. März 2018</a> (PDF Dokument / document)
+</p>
+
+<p>
     <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen and Glosar Mind-Control</a> (TXT Dokument / document)
 </p>
 
