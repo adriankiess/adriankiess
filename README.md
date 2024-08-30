@@ -43,7 +43,7 @@ Thank you for visiting!
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/universitaet-leipzig-programmierpraktikum-softwaretechnikpraktikum-betrug-durch-martin-thomas-czygan.pdf" target="_blank">Universität Leipzig: Denkschrift  und Auskunftsersuchen Programmierpraktikum und Softwarfetechnikpraktikum 2004 und 2005 vom 31. Julie 2017</a> (PDF Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/universitaet-leipzig-programmierpraktikum-softwaretechnikpraktikum-betrug-durch-martin-thomas-czygan.pdf" target="_blank">Universität Leipzig: Denkschrift  und Auskunftsersuchen Programmierpraktikum und Softwaretechnikpraktikum 2004 und 2005 vom 31. Juli 2017</a> (PDF Dokument / document)
 </p>
 
 <p>
