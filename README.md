@@ -1,6 +1,4 @@
-<p>[de]Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil.[/de]
-</p>
-<p>
+<p>[de]Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil.[/de] <br />
 [en]Adrian Kieß is a programmer and administrator. He is currently taking part in the history seminar at the University of Leipzig.[/en]
 </p>
 
