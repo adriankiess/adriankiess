@@ -62,7 +62,7 @@ Thank you for visiting!
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen, Glosar Mind-Control and bulletin items D to L.</a> (TXT Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen, Glosar Mind-Control and ordered list items D to L.</a> (TXT Dokument / document)
 </p>
 
 Verbotene Wörter / Forbidden words / Mots interdits / Запретные слова / Palabras prohibidas / Parole proibite / Palavras proibidas / Förbjudna ord / Forbudte ord / Забароненыя словы / Заборонені слова / Забранени думи / Забрањене речи / Zakázaná slova / Zakazane słowa / Keelatud sõnad / Aizliegtie vārdi / Uždrausti žodžiai / Cuvinte interzise / Tiltott szavak
