@@ -35,7 +35,7 @@ Thank you for visiting!
     <a href="//github.com/adriankiess/adriankiess/raw/main/jugendherberge-bad-urach-beschwerde-und-auskunftsersuchen-veruntreutes-verpflegungsgeld.pdf" target="_blank">Jugendherberge Bad Urach: Beschwerde und Auskunftsersuchen veruntreutes Verpflegungsgeld vom 9. August 2016</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen vom 28. August 2024 (not yet delivered, to be sent out)</a> (PDF Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen vom 7. September 2024 (not yet delivered, to be send out)</a> (PDF Dokument / document)
     </li>
     <li>
     <a href="//github.com/adriankiess/adriankiess/raw/main/universitaet-leipzig-programmierpraktikum-softwaretechnikpraktikum-betrug-durch-martin-thomas-czygan.pdf" target="_blank">Universität Leipzig: Denkschrift  und Auskunftsersuchen Programmierpraktikum und Softwaretechnikpraktikum 2004 und 2005 vom 31. Juli 2017</a> (PDF Dokument / document)
