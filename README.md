@@ -65,7 +65,7 @@ APPENDIX Schreiben / Writings:
 
 <p>
 
-<ol>
+<ol type="A">
     <li>
     <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wie-ich-den-rauchkonsum-erfolgreich-beenden-konnte.txt" target="_blank">Wie ich den Rauchkonsum beenden konnte vom 24. November 2024</a> (TXT Dokument / document)
     </li>
