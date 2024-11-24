@@ -20,43 +20,57 @@ Thank you for visiting!
 
 <ol type="A">
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-5.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.5 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-5.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.5 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/glosar-mind-control.pdf" target="_blank">Glosar Mind-Control V15</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/glosar-mind-control.pdf" target="_blank">Glosar Mind-Control V15</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/wege-ev-beschwerde-und-auskunftsersuchen-veruntreute-gelder.pdf" target="_blank">Wege e.V.: Beschwerde und Auskunftsersuchen veruntreute Gelder vom 26. Juli 2014</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wege-ev-beschwerde-und-auskunftsersuchen-veruntreute-gelder.pdf" target="_blank">Wege e.V.: Beschwerde und Auskunftsersuchen veruntreute Gelder vom 26. Juli 2014</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/jugendherberge-bad-urach-beschwerde-und-auskunftsersuchen-veruntreutes-verpflegungsgeld.pdf" target="_blank">Jugendherberge Bad Urach: Beschwerde und Auskunftsersuchen veruntreutes Verpflegungsgeld vom 9. August 2016</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/jugendherberge-bad-urach-beschwerde-und-auskunftsersuchen-veruntreutes-verpflegungsgeld.pdf" target="_blank">Jugendherberge Bad Urach: Beschwerde und Auskunftsersuchen veruntreutes Verpflegungsgeld vom 9. August 2016</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen-hinsichtlich-meines-wehrdienstes-2002.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen hinsichtlich meines Wehrdienstes im Jahre 2002 vom 7. September 2024</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/bundeswehr-abc-abwehr-baden-denkschrift-und-auskunftsersuchen-hinsichtlich-meines-wehrdienstes-2002.pdf" target="_blank">Bundeswehr, ABC-Abwehr 750 "BADEN": Denkschrift und Auskunftsersuchen hinsichtlich meines Wehrdienstes im Jahre 2002 vom 7. September 2024</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/universitaet-leipzig-programmierpraktikum-softwaretechnikpraktikum-betrug-durch-martin-thomas-czygan.pdf" target="_blank">Universität Leipzig: Denkschrift  und Auskunftsersuchen Programmierpraktikum und Softwaretechnikpraktikum 2004 und 2005, Betrug durch Martin Thomas Czygan vom 31. Juli 2017</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/universitaet-leipzig-programmierpraktikum-softwaretechnikpraktikum-betrug-durch-martin-thomas-czygan.pdf" target="_blank">Universität Leipzig: Denkschrift  und Auskunftsersuchen Programmierpraktikum und Softwaretechnikpraktikum 2004 und 2005, Betrug durch Martin Thomas Czygan vom 31. Juli 2017</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-beschwerde-und-auskunftsersuchen-aerztliches-attest.pdf" target="_blank">Park Klinikum Leipzig: Beschwerde und Auskunftsersuchen Ärztliches Attest vom 27. Januar 2014</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-beschwerde-und-auskunftsersuchen-aerztliches-attest.pdf" target="_blank">Park Klinikum Leipzig: Beschwerde und Auskunftsersuchen Ärztliches Attest vom 27. Januar 2014</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-wege-ev-an-rebekka-armbruster.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen Wege e.V. an Frau Dr. Rebekka Armbruster vom 5. März 2018</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-wege-ev-an-rebekka-armbruster.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen Wege e.V. an Frau Dr. Rebekka Armbruster vom 5. März 2018</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-erste-notfall-einlieferung.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen erste Notfall Einlieferung vom 24. Juli 2017</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-erste-notfall-einlieferung.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen erste Notfall Einlieferung vom 24. Juli 2017</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-zweite-notfall-einlieferung.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen zweite Notfall Einlieferung vom 8. März 2014</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-denkschrift-und-auskunftsersuchen-zweite-notfall-einlieferung.pdf" target="_blank">Park Klinikum Leipzig: Denkschrift und Auskunftsersuchen zweite Notfall Einlieferung vom 8. März 2014</a> (PDF Dokument / document)
     </li>
     <li>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-zeit-wissen-2015-5-gedanken-lesen-ab-seite-20-anschreiben.pdf" target="_blank">Park Klinikum Leipzig: Information über den Artikel “Gedanken lesen” aus ZEIT WISSEN 2015/05 vom 6. Mai 2016</a> (PDF Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/park-klinikum-leipzig-zeit-wissen-2015-5-gedanken-lesen-ab-seite-20-anschreiben.pdf" target="_blank">Park Klinikum Leipzig: Information über den Artikel “Gedanken lesen” aus ZEIT WISSEN 2015/05 vom 6. Mai 2016</a> (PDF Dokument / document)
     </li>
     
 </ol>
+</p>
+
+<p>
+APPENDIX Schreiben / Writings:
+</p>
+
+<p>
+
+<ol>
+    <li>
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wie-ich-den-rauchkonsum-beenden-konnte.txt" target="_blank">Wie ich den Rauchkonsum beenden konnte vom 24. November 2024</a> (TXT Dokument / document)
+    </li>
+</ol>
+
 </p>
 
 <p>
