@@ -20,7 +20,7 @@ Thank you for visiting!
 
 <ol type="A">
     <li>
-    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-5.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.5 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-6.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.6 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
     </li>
     <li>
     <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
@@ -67,7 +67,7 @@ APPENDIX Schreiben / Writings:
 
 <ol type="A">
     <li>
-    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wie-ich-den-rauchkonsum-erfolgreich-beenden-konnte.txt" target="_blank">Wie ich den Rauchkonsum erfolgreich beenden konnte vom 24. November 2024</a> (TXT Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wie-ich-den-rauchkonsum-erfolgreich-beenden-konnte-v1-1.txt" target="_blank">Wie ich den Rauchkonsum erfolgreich beenden konnte vom 24. November 2024</a> (TXT Dokument / document)
     </li>
 </ol>
 
