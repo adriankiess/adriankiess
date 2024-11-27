@@ -74,7 +74,7 @@ APPENDIX Schreiben / Writings:
 </p>
 
 <p>
-    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen, Glosar Mind-Control and ordered list items A and D to L</a> (TXT Dokument / document)
+    <a href="//github.com/adriankiess/adriankiess/raw/main/writings/LICENSE.txt" target="_blank">LICENSE of Grundbegriffe des Mind-Control in zwanzig Sprachen, Glosar Mind-Control and ordered list items A to L</a> (TXT Dokument / document)
 </p>
 
 <p>                                                                                                                                                                   
