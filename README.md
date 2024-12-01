@@ -20,7 +20,7 @@ Thank you for visiting!
 
 <ol type="A">
     <li>
-    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-6.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.6 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4-7.txt" target="_blank">Anschreiben Grundbegriffe des Mind-Control in zwanzig Sprachen V4.7 (jetzt mit Begleitschreiben)</a> (TXT Dokument / document)
     </li>
     <li>
     <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/grundbegriffe-des-mind-control-in-zwanzig-sprachen-v4.pdf" target="_blank">Grundbegriffe des Mind-Control in zwanzig Sprachen V4</a> (PDF Dokument / document)
