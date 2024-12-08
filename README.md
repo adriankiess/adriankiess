@@ -3,13 +3,13 @@
 </p>
 
 <p>
-Adrian Kiess @ X.com: https://x.com/adriankiess <br />
-Adrian Kiess @ YouTube.com: https://youtube.com/@AdrianKiess <br />
-Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess    
+http://www.kiess.onl
 </p>
 
 <p>
-http://www.kiess.onl
+Adrian Kiess @ X.com: https://x.com/adriankiess <br />
+Adrian Kiess @ YouTube.com: https://youtube.com/@AdrianKiess <br />
+Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess    
 </p>
 
 <p>
