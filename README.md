@@ -73,6 +73,9 @@ APPENDIX Schreiben / Writings:
     <li>
     <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wie-ich-den-rauchkonsum-erfolgreich-beenden-konnte-v1-3.txt" target="_blank">Wie ich den Rauchkonsum erfolgreich beenden konnte vom 24. November 2024</a> (TXT Dokument / document)
     </li>
+    <li>
+    <a href="https://github.com/adriankiess/adriankiess/raw/main/writings/wo-sind-die-entwickler-und-anwender-von-kommerziellen-unices-geblieben-v1.txt" target="_blank">Wo Sind die Entwickler und Anwender von kommerziellen UNICES geblieben vom 15. Dezember 2024</a> (TXT Dokument / document)
+    </li>
 </ol>
 
 </p>
