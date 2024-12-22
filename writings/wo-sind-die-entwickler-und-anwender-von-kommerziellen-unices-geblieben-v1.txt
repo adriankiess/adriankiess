@@ -1,4 +1,6 @@
-Fassung in Version 1.0, vom 15.12.2024.
+Fassung in Version 1.0, vom 22.12.2024:
+
+Gegenstand: Wo sind die Entwickler und Anwender von kommerziellen UNICES geblieben
 
 In diesem Schreiben möchte ich mich dem Verschwinden der kommerziellen UNICES Anfang des neuen Milleniums im Jahre 2000 auseinandersetzen.
 
