@@ -64,7 +64,7 @@ Thank you for visiting!
 </p>
 
 <p>
-APPENDIX Schreiben / Writings:
+APPENDIX Schreiben: / Writings:
 </p>
 
 <p>
