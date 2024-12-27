@@ -90,6 +90,12 @@ Translations constructed with the help of <a href="https://translate.google.de">
 </p>  
 
 <p>
+Grundbegriffe des Mind-Control in zwanzig Sprachen nutzt den 
+<a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing/nimbus_laf.html">Oracle Java Swing Nimbus look and feel</a> 
+als Grundlage für die Farbauswahl!
+</p>
+
+<p>
 <mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
 <mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com:
 </p>
