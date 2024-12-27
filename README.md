@@ -89,6 +89,15 @@ APPENDIX Schreiben: / Writings:
 Translations constructed with the help of <a href="https://translate.google.de">Google Translate</a>.                                                                 
 </p>  
 
+<p>
+Spenden Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
+Donate to Adrian Immanuel Kieß through PayPal.com:
+</p>
+<p>
+<a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
+</p>
+
+
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
