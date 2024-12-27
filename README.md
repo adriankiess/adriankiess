@@ -90,8 +90,8 @@ Translations constructed with the help of <a href="https://translate.google.de">
 </p>  
 
 <p>
-Spenden Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
-Donate to Adrian Immanuel Kieß through PayPal.com:
+<big>Spenden</big> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
+<big>Donate</big> to Adrian Immanuel Kieß through PayPal.com:
 </p>
 <p>
 <a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
