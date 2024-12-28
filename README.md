@@ -103,9 +103,10 @@ als Grundlage für die Farbauswahl des Dokumenteninhaltes!
 <a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
 </p>
 
+<p>
 ## 📈 GitHub Stats
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankiess&show_icons=true&theme=radical)
-
+</p>
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
