@@ -106,7 +106,7 @@ als Grundlage für die Farbauswahl des Dokumenteninhaltes!
 ## 📈 GitHub Stats
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankiess&show_icons=true&theme=radical)
 
-[![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Follow&style=social)](https://github.com/adriankiess?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Followers&style=social)](https://github.com/adriankiess?tab=followers)
 
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
