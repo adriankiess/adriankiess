@@ -106,6 +106,8 @@ als Grundlage für die Farbauswahl des Dokumenteninhaltes!
 ## 📈 GitHub Stats
 ![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankiess&show_icons=true&theme=radical)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankiess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 [![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Followers&style=social)](https://github.com/adriankiess?tab=followers)
 
 <!---
