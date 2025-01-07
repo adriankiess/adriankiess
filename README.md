@@ -104,11 +104,11 @@ als Grundlage für die Farbauswahl des Dokumenteninhaltes!
 </p>
 
 ## 📈 GitHub Stats
-![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankiess&show_icons=true&theme=radical)
+![Adrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriankiess&show_icons=true&theme=neon)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankiess&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankiess&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Followers&style=social)](https://github.com/adriankiess?tab=followers) ### [![](https://visitcount.itsvg.in/api?id=adriankiess&label=GitHub.com%20Profile%20Views&color=2&icon=1&pretty=false)](https://visitcount.itsvg.in)
+[![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Followers&style=social)](https://github.com/adriankiess?tab=followers)
 
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
