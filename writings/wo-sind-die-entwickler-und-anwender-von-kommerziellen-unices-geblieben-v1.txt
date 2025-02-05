@@ -1,4 +1,6 @@
-Fassung in Version 1.0, vom 22.12.2024:
+Originalversion veröffentlicht am 15. Dezember 2024.
+
+Fassung in Version 1.0, vom 05.02.2025:
 
 Gegenstand: Wo sind die Entwickler und Anwender von kommerziellen UNICES geblieben
 
