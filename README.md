@@ -17,7 +17,7 @@ Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess
 </p>
 <p>
 Adrian Kiess @ HuggingFace.com: https://huggingface.co/adriankiess <br />
-Adrian Kiess @ Stackoverflow.com: https://stackoverflow.com/users/31712645/adriankiess?tab=profile <br />
+Adrian Kiess @ Stackoverflow.com: https://stackoverflow.com/users/31712645/adriankiess?tab=profile
 </p>
 
 <p>
