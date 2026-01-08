@@ -67,10 +67,10 @@ Le site d'Adrian Immanuel Kieß est accessible sous les adresses des noms de dom
       <a href="http://www.immanuel.onl"><em>www.IMMANUEL.ONL</em></a> &equiv;
     </li>
     <li>
-      <a href="http://www.kiess.biz"><em>www.KIESS.BIZ</em></a>
+      <a href="http://www.kiess.biz"><em>www.KIESS.BIZ</em></a> &equiv;
     </li>
     <li>
-      <a href="http://www.kiess.engineer"><em>www.KIESS.ENGINEER</em></a>
+      <a href="http://www.kiess.engineer"><em>www.KIESS.ENGINEER</em></a> &equiv;
     </li>
     <li>
       <a href="http://www.kiess.onl"><em>www.KIESS.ONL</em></a>
