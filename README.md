@@ -33,9 +33,49 @@ Thank you for visiting!
 <a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
 </p>
 
-## 📈 GitHub Stats
 
-[![GitHub Badge](https://img.shields.io/github/followers/adriankiess?label=Followers&style=social)](https://github.com/adriankiess?tab=followers)
+  <h3 id="connexion">Anbindung / Connexion / Connexion / Связи <span class="anchor"><a href="#connexion">#</a></span></h3>
+
+<p>
+Die Seite von Adrian Immanuel Kie&szlig; ist unter folgenden Domänen Adressen erreichbar:
+<br />
+The site of Adrian Immanuel Kieß is reachable under the domain name addresses:
+<br />
+Le site d'Adrian Immanuel Kieß est accessible sous les adresses des noms de domaine:
+<br />
+На сайт Adrian Immanuel Kieß можно попасть по адресам доменного имени:
+<br />
+</p>
+
+<h5>&Uuml;ber das Internet / Over The Internet / Par Internet / Через Интернет</h5>
+
+
+  <ol style="font-size: small;">
+    <li>
+      <a href="http://www.adrian.onl"><em>www.ADRIAN.ONL</em></a> &equiv;
+    </li>
+    <li>
+      <a href="http://www.adrian-immanuel.de"><em>www.ADRIAN-IMMANUEL.DE</em></a> &equiv;
+    </li>
+    <li>
+      <a href="http://www.adrian-kiess.de"><em>www.ADRIAN-KIESS.DE</em></a> &equiv;
+    </li>
+    <li>
+      <a href="http://www.aik.onl"><em>www.AIK.ONL</em></a> &equiv;
+    </li>
+    <li>
+      <a href="http://www.immanuel.onl"><em>www.IMMANUEL.ONL</em></a> &equiv;
+    </li>
+    <li>
+      <a href="http://www.kiess.biz"><em>www.KIESS.BIZ</em></a>
+    </li>
+    <li>
+      <a href="http://www.kiess.engineer"><em>www.KIESS.ENGINEER</em></a>
+    </li>
+    <li>
+      <a href="http://www.kiess.onl"><em>www.KIESS.ONL</em></a>
+    </li>
+ </ol>
 
 <!---
 adriankiess/adriankiess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
