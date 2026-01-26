@@ -1,4 +1,8 @@
 
+<head>
+  <link rel="stylesheet" type="text/css" href="styles/kiess.css" />
+  <link rel="shortcut icon" href="images/favicon.png" sizes="233x150" type="image/png" />
+</head>
 
 <p>
 <img src="https://github.com/adriankiess/adriankiess/blob/main/bimi/kiess-onl-logo-bimi.svg" alt="Deutscher Bundesadler" height="256" align="right"> 
