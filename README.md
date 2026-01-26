@@ -24,6 +24,8 @@ Vielen Dank für Ihren Besuch! <br />
 Thank you for visiting!
 </p>
 
+<hr />
+
 <p>
 <mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
 <mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com:
@@ -32,7 +34,7 @@ Thank you for visiting!
 <a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
 </p>
 
-
+<hr />
 
 <div class="welcome-top">
   <img title="Welcome to the website of" alt="Welcome to the website of" src="images/welcomewebsite-240px.png"/>
