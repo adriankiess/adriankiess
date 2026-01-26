@@ -34,6 +34,46 @@ Thank you for visiting!
 </p>
 
 
+
+<div class="welcome-top">
+  <img title="Welcome to the website of" alt="Welcome to the website of" src="images/welcomewebsite-240px.png"/>
+</div> 
+
+<div class="welcome-middle">
+  <a href="/">
+	<img title="Adrian Immanuel Kie&szlig;" alt="Adrian Immanuel Kie&szlig;" src="images/adrianimmanuelkiess-480px.png"/>
+  </a>
+</div>
+
+<table id="welcome-table">
+
+  <tr>
+		<td><img class="locale" alt="German national flag" src="images/locale/LocaleDe.png"/></td>
+    <td>.de</td>
+    <td>(de)</td>
+	  <td>Willkommen auf der Seite von Adrian Immanuel Kie&szlig;.</td>
+  <tr>
+  <tr>
+		<td><img class="locale" alt="English national flag" src="images/locale/LocaleEn.png"/></td>
+    <td>.us</td>
+    <td>(en)</td>
+	  <td>Welcome to the site of Adrian Immanuel Kie&szlig;.</td>
+  </tr>
+		<td><img class="locale" alt="French national flag" src="images/locale/LocaleFr.png"/></td>
+    <td>.fr</td>
+    <td>(fr)</td>
+	  <td>Bienvenue sur le site de Adrian Immanuel Kie&szlig;.</td>
+  </tr>
+  <tr>
+		<td><img class="locale" alt="Russian national flag" src="images/locale/LocaleRu.png"/></td>
+    <td>.ru</td>
+    <td>(ru)</td>
+	  <td>Добро пожаловать на сайт Adrian Immanuel Kie&szlig;.</td>
+  </tr>
+
+</table>
+
+
   <h3 id="connexion">Anbindung / Connexion / Connexion / Связи <span class="anchor"><a href="#connexion">#</a></span></h3>
 
 <p>
