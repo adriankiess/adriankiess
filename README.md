@@ -1,8 +1,8 @@
 
 <p>
 <img src="https://github.com/adriankiess/adriankiess/blob/main/bimi/kiess-onl-logo-bimi.svg" alt="Deutscher Bundesadler" height="256" align="right"> 
-[de] Adrian Kieß ist Programmierer und Administrator. Er nimmt derzeit am Historischen Seminar der Universität Leipzig teil. [/de] <br />
-[en] Adrian Kieß is a programmer and administrator. He is currently taking part in the history seminar at the University of Leipzig. [/en]
+[de] Adrian Kieß ist Programmierer und Administrator. [/de] <br />
+[en] Adrian Kieß is a programmer and administrator. [/en]
 </p>
 
 <p>
