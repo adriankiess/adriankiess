@@ -1,8 +1,8 @@
 
 <p>
 <img src="https://github.com/adriankiess/adriankiess/blob/main/bimi/kiess-onl-logo-bimi.svg" alt="Deutscher Bundesadler" height="256" align="right"> 
-[de] Adrian Kieß ist Programmierer und Administrator. [/de] <br />
-[en] Adrian Kieß is a programmer and administrator. [/en]
+[de] Adrian Kieß ist Informatiker. [/de] <br />
+[en] Adrian Kieß is a computer scientist. [/en]
 </p>
 
 <p>
