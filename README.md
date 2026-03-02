@@ -26,9 +26,9 @@ Thank you for visiting!
 
 <hr />
 
-[de] [Besuchen Sie das GitHub.com Profil der KIESS.ONL…](https://github.com/kiess-onl/) [/de]
+[de] [Besuchen Sie das GitHub.com Organisations-Profil der KIESS.ONL…](https://github.com/kiess-onl/) [/de]
 
-[en] [Visit the GitHub.com profile of KIESS.ONL…](https://github.com/kiess-onl/) [/en]
+[en] [Visit the GitHub.com organization profile of KIESS.ONL…](https://github.com/kiess-onl/) [/en]
 
 <hr />
 
