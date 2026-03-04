@@ -117,8 +117,8 @@ Le site d'Adrian Immanuel Kieß est accessible sous les adresses des noms de dom
 <hr />
 
 <p>
-<mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
-<mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com:
+[de] <mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com: [/de]</br>
+[en] <mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com: [/en]
 </p>
 <p>
 <a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
