@@ -31,16 +31,6 @@ Thank you for visiting!
 
 <hr />
 
-<p>
-<mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
-<mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com:
-</p>
-<p>
-<a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
-</p>
-
-<hr />
-
 <div class="welcome-top">
   <img title="Welcome to the website of" alt="Welcome to the website of" src="images/welcomewebsite-240px.png"/>
 </div> 
@@ -122,6 +112,16 @@ Le site d'Adrian Immanuel Kieß est accessible sous les adresses des noms de dom
       <a href="http://www.kiess.onl"><em>www.KIESS.ONL</em></a>
     </li>
   </ol>
+</p>
+
+<hr />
+
+<p>
+<mark><strong>Spenden</strong></mark> Sie an Adrian Immanuel Kieß mittels PayPal.com:</br>
+<mark><strong>Donate</strong></mark> to Adrian Immanuel Kieß through PayPal.com:
+</p>
+<p>
+<a href="https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG">https://www.paypal.com/donate/?hosted_button_id=X2VHKN7EGYGKG</a>    
 </p>
 
 <!---
