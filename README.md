@@ -31,6 +31,7 @@ Thank you for visiting!
 
 <hr />
 
+<!--
 <div class="welcome-top">
   <img title="Welcome to the website of" alt="Welcome to the website of" src="images/welcomewebsite-240px.png"/>
 </div> 
@@ -40,6 +41,7 @@ Thank you for visiting!
 	<img title="Adrian Immanuel Kie&szlig;" alt="Adrian Immanuel Kie&szlig;" src="images/adrianimmanuelkiess-480px.png"/>
   </a>
 </div>
+-->
 
 <table id="welcome-table">
 
