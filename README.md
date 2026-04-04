@@ -12,7 +12,8 @@ http://www.kiess.onl
 <p>
 Adrian Kiess @ X.com: https://x.com/adriankiess <br />
 Adrian Kiess @ YouTube.com: https://youtube.com/@AdrianKiess <br />
-Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess    
+Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess <br />
+Adrian Kiess @ Slashdot.org: https://slashdot.org/~sputti
 </p>
 <p>
 Adrian Kiess @ HuggingFace.com: https://huggingface.co/adriankiess <br />
