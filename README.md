@@ -13,10 +13,10 @@ http://www.kiess.onl
 Adrian Kiess @ X.com: https://x.com/adriankiess <br />
 Adrian Kiess @ YouTube.com: https://youtube.com/@AdrianKiess <br />
 Adrian Kiess @ Wikipedia.de: https://de.wikipedia.org/wiki/Benutzer:AdrianKiess <br />
+Adrian Kiess @ HuggingFace.com: https://huggingface.co/adriankiess <br />
 Adrian Kiess @ Slashdot.org: https://slashdot.org/~sputti
 </p>
 <p>
-Adrian Kiess @ HuggingFace.com: https://huggingface.co/adriankiess <br />
 Adrian Kiess @ Stackoverflow.com: https://stackoverflow.com/users/31712645/adriankiess?tab=profile
 </p>
 
